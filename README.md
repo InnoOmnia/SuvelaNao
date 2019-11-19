@@ -1,2 +1,2 @@
 # SuvelaNao
-Documentation of using Nao as language teacher
+Täältä löytyy kaikki tarvittava dokumentaatio että voit ottaa Nao robotin suomen kielen opetukseen
